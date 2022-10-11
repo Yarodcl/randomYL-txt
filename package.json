@@ -1,0 +1,24 @@
+{
+  "name": "randomyl-txt",
+  "version": "1.0.0",
+  "description": "Random text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yarodcl/randomYL-txt.git"
+  },
+  "keywords": [],
+  "author": "Yarod Aliaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yarodcl/randomYL-txt/issues"
+  },
+  "homepage": "https://github.com/Yarodcl/randomYL-txt#readme",
+  "bin": {
+    "randomYL-txt": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
